@@ -8,5 +8,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![new_portfolio](/assets/img/Elian1.png)
+![new_portfolio](/assets/img/background1.png)
+![new_portfolio](/assets/img/background2.png)
+
 
