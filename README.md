@@ -9,6 +9,6 @@
 
 
 ![new_portfolio](/assets/img/background1.png)
-![new_portfolio](/assets/img/background2.png)
+![new_portfolio](/assets/img/background 2.png)
 
 
