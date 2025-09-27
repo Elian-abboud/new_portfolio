@@ -4,5 +4,3 @@ Responsive Website Using HTML, CSS and JavaScript. Contains animations when scro
 <a href="https://elian-abboud.github.io/new_portfolio/" target="_blank">Click here to view the live demo</a>
 
 
-![Fit_Club_GYM_website](/1.png)
-
